@@ -1,2 +1,1 @@
-# student-activity
-sample
+# SAtemplate
